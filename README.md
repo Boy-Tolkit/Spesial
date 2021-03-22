@@ -11,5 +11,5 @@ $ pkg install git
 ```
 $ git clone https://github.com/Boy-Tolkit/Spesial
 $ cd Spesial
-$ python spesial.c
+$ python Spesial.c
 ```
